@@ -22,7 +22,7 @@ This is a starter project for building mobile and web applications using Ionic R
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ionic-react-starter.git
+     git clone https://github.com/francis-Paul-code/ionic-react-railway-starter.git
     cd ionic-react-starter
     ```
 
